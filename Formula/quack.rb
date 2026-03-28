@@ -1,8 +1,8 @@
 class Quack < Formula
   desc "Zero-config bug detection for your CI"
   homepage "https://github.com/LufeMC/quack"
-  url "https://registry.npmjs.org/@luisf_mc/quack/-/luisf_mc-quack-0.1.0.tgz"
-  sha256 "c8d3eae160a892e32837db3dcae515e843e5383fef52b8141940c8bcf8b6d59f"
+  url "https://registry.npmjs.org/quackdev/-/quackdev-0.1.0.tgz"
+  sha256 "f212394443eb8a555d9289191b2370e8b6a89c2683519de0cfe02ff996a30b94"
   license "MIT"
 
   depends_on "node"
